@@ -1,6 +1,7 @@
 /* 
  *  Multiple Push Buttons on One Arduino Input // Multiple Blinking LED on/off Using Arduino
- *  Arduino Tutorial - https://www.youtube.com/c/nexample
+ *  Tutorial - https://www.youtube.com/c/nexample
+ *  GitHub - https://github.com/Nexample-G/Multiple-Push-Buttons-on-One-Arduino-Input-Multiple-Blinking-LED-on-off-Using-Arduino
  *  Dev: Nexample // Date: 10/7/2021 // Ver:0.1
  */
   int BT0, BT1, BT2, BT3, BT4, LW, LED = 0;
